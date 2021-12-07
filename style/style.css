@@ -640,7 +640,7 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   top: 108px;
-  left: 970px;
+  left: 1072px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -651,6 +651,7 @@ img {
   letter-spacing: 0.06em;
   color: #ffffff;
 }
+
 .btn-mailing:hover,
 .btn-mailing:focus {
   background-color: #188ce8;
