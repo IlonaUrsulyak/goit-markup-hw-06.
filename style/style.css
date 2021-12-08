@@ -597,15 +597,15 @@ img {
 }
 
 .mailing-container {
+  display: block;
   width: 570px;
   height: 86px;
   margin-left: 92px;
   padding-top: 12px;
 }
 
-.mailing-send {
+.mailing-form {
   display: flex;
-  justify-content: flex-end;
 }
 
 .footer-modal-text {
@@ -650,6 +650,7 @@ img {
   line-height: 1.87;
   letter-spacing: 0.06em;
   color: #ffffff;
+  margin-left: 12px;
 }
 
 .btn-mailing:hover,
