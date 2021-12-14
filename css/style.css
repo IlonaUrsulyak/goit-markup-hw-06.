@@ -485,16 +485,13 @@ img {
 .footer {
   background-color: #2f303a;
   margin: 0 auto;
-  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-
-.container-icons {
   display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
 }
+
 .container-icon {
   display: flex;
 }
